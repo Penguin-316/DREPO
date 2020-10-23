@@ -1,22 +1,22 @@
-#
-DREPO - Curated Repository of Open Source Hardware
+# DREPO
+##  Curated Repository of Open Source Hardware
 
 Repository of open source hardware, primarily compiled from FOSSCAD and Defense Distributed.
 
-##Recommended Starting Functional Prints
+## Recommended Starting Functional Prints
 
-###AR
+### AR
 Anderson Firearms HellFire
 Ubolt Vanguard
 
-###PCC
+### PCC
 FGC-9
 
-###Pistol
+### Pistol
 FreeMenDontASK (FMDA) - G17/19 
 FreeMenDontAsk - MPShield9
 
-##Non-Functional
+## Non-Functional
 In addition to several prop guns, the **HellDoesntFire* is a 80% lower of the HellFire model.
 
 
