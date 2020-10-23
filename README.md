@@ -18,8 +18,7 @@ FreeMenDontASK (FMDA) - G17/19
 FreeMenDontAsk - MPShield9
 
 ## Non-Functional
-In addition to several prop guns, the **HellDoesntFire* is a 80% lower of the HellFire model.
-
+In addition to several prop guns, the **HellDoesntFire** is a 80% lower of the HellFire model.
 
 
 
