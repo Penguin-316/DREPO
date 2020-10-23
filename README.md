@@ -2,7 +2,7 @@
 
 Curated repository of open source hardware, primarily compiled from FOSSCAD and Deterrence Dispensed.
 
-## Recommended Starting Functional Prints
+## Recommended Starting Prints
 
 ### AR
 
