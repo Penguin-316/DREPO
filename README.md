@@ -1,6 +1,6 @@
 # DREPO
 
-Curated repository of open source hardware, primarily compiled from FOSSCAD and Defense Distributed.
+Curated repository of open source hardware, primarily compiled from FOSSCAD and Deterrence Dispensed.
 
 ## Recommended Starting Functional Prints
 
@@ -12,11 +12,11 @@ Curated repository of open source hardware, primarily compiled from FOSSCAD and 
 
 ### PCC
 
-**FGC-9** - Complete instructions for creating a 9mm firearm, including barrel rifling instructions - *Designed by Deterrence Dispensed
+**FGC-9** - Complete instructions for creating a 9mm firearm, including barrel rifling instructions - *Designed by Deterrence Dispensed*
 
 ### Pistol
 
-FreeMenDontASK (FMDA) - G17/19 - *Designed by Deterrence Dispensed*
+FreeMenDontASK - G17/19 - *Designed by Deterrence Dispensed*
 
 FreeMenDontAsk - MPShield9 - *Designed by Deterrence Dispensed*
 
