@@ -22,7 +22,7 @@ FreeMenDontAsk - MPShield9 - *Designed by Deterrence Dispensed*
 
 ## Non-Functional
 
-**HellDoesntFire**  - A non-functional "80%" lower of the HellFire model. - *Designed by Clonewar*
+**HellDoesntFire**  - A non-functional "80%" lower of the HellFire model. - *Clonewar modification of a PotatoSociety design*
 
 
 
