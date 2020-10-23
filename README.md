@@ -1,25 +1,28 @@
 # DREPO
-##  Curated Repository of Open Source Hardware
 
-Repository of open source hardware, primarily compiled from FOSSCAD and Defense Distributed.
+Curated repository of open source hardware, primarily compiled from FOSSCAD and Defense Distributed.
 
 ## Recommended Starting Functional Prints
 
 ### AR
-**Anderson Firearms HellFire** (AR-15 lower with)
 
-Ubolt Vanguard
+**Anderson Firearms HellFire** - Multiple part lower,with all necessary pieces printable out of PLA/PLA+ - *Designed by PotatoSociety*
+
+**Ubolt Vanguard**  - Single piece lower, requiring the addition of a metal u-bolt to strengthen the buffer tower - *Designed by WarFairy/IvanTheTroll*
 
 ### PCC
-FGC-9 
+
+**FGC-9** - Complete instructions for creating a 9mm firearm, including barrel rifling instructions - *Designed by Deterrence Dispensed
 
 ### Pistol
-FreeMenDontASK (FMDA) - G17/19 
 
-FreeMenDontAsk - MPShield9
+FreeMenDontASK (FMDA) - G17/19 - *Designed by Deterrence Dispensed*
+
+FreeMenDontAsk - MPShield9 - *Designed by Deterrence Dispensed*
 
 ## Non-Functional
-In addition to several prop guns, the **HellDoesntFire** is a 80% lower of the HellFire model.
+
+**HellDoesntFire**  - A non-functional "80%" lower of the HellFire model. - *Designed by Clonewar*
 
 
 
