@@ -29,4 +29,6 @@ FreeMenDontAsk - MPShield9 - *Designed by Deterrence Dispensed*
 
 A well regulated militia, being necesasary to the security of a free state, the right of the people to keep and bear arms shall not be infringed.
 
-This repo is for all lawful purposes. Please print responsibly.
+Not all models are legal to print in all jurisdictions. This repo is for all lawful purposes. 
+
+Please print responsibly.
