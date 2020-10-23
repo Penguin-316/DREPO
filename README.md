@@ -6,12 +6,12 @@ Repository of open source hardware, primarily compiled from FOSSCAD and Defense 
 ## Recommended Starting Functional Prints
 
 ### AR
-Anderson Firearms HellFire
+**Anderson Firearms HellFire** (AR-15 lower with)
 
 Ubolt Vanguard
 
 ### PCC
-FGC-9
+FGC-9 
 
 ### Pistol
 FreeMenDontASK (FMDA) - G17/19 
